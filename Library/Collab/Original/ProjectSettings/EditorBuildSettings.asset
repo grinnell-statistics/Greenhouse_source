@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/_Scenes/Farmer/Start.unity
+    guid: 366276c16898040b78ed091a98966257
+  - enabled: 0
+    path: Assets/_Scenes/Farmer/Unused/StartMenu.unity
+    guid: 35f4e479b0e268a42ba950f7594a447d
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/_Scenes/Farmer/Tutorial_Farm.unity
+    guid: 3abb46efa72bb44ff82aa8592f6a727e
+  - enabled: 1
+    path: Assets/_Scenes/Farm.unity
+    guid: 0acdcef65a3ddfb408eb36b5b8ed0217
+  - enabled: 0
+    path: Assets/_Scenes/Farmer/Level_FarmHouse.unity
+    guid: fbf0540af970ba042a1c2efec10c5e04
+  - enabled: 0
+    path: Assets/_Scenes/Farmer/Scatterplot.unity
+    guid: 28c76f12c217e44c4a091d1279812311
+  - enabled: 0
+    path: Assets/_Scenes/Farmer/Unused/Level_Cave.unity
+    guid: 0a6f7abbedbab4342a99dab7888f4acc
+  - enabled: 1
+    path: Assets/_Scenes/Credits.unity
+    guid: 74baed98553754e24b086e86cf8a6c42
+  - enabled: 0
+    path: Assets/_Scenes/Farmer/Win.unity
+    guid: e2d6663eeddd144109dcdceaed1152ce
+  - enabled: 1
+    path: Assets/_Scenes/LevelComplete.unity
+    guid: 3736de60f459dda4a82864b1b6144cdd
+  - enabled: 1
+    path: Assets/_Scenes/MainMenu.unity
+    guid: a8780f8d82a4e9e40bf17116db41cb09
+  - enabled: 1
+    path: Assets/_Scenes/Instructions.unity
+    guid: c3ec71e545b28814db1b439c6c52a0d0
+  m_configObjects: {}
