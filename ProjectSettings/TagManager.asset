@@ -1,0 +1,156 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Plant
+  - Bush
+  - Crop
+  - Enemy
+  - Seed
+  - Sapling
+  - FullGrown
+  - Clone1
+  - Clone2
+  - Plot1
+  - Plot2
+  - Plot3
+  - Plot4
+  - Plot5
+  - Plot6
+  - Clone3
+  - Clone4
+  - Clone5
+  - Clone6
+  - Damage Volume
+  - Rock
+  - Tree
+  - Plant1
+  - Plant2
+  - Plant3
+  - table
+  - Selection
+  - Selected
+  - PrevSelected
+  - Sound
+  - Quest
+  - Pesticide
+  - John
+  - Sarah
+  - Bob
+  - Hannah
+  - Plot8
+  - Plot9
+  - Plot10
+  - Plot11
+  - Plot12
+  - Plot13
+  - Plot14
+  - Plot15
+  - Plot16
+  - Plot17
+  - Plot18
+  - Plot19
+  - Plot20
+  - Plot21
+  - Plot22
+  - Plot23
+  - Plot24
+  - Plot25
+  - Plot26
+  - Plot27
+  - Plot28
+  - Plot29
+  - Plot30
+  - Plot31
+  - Plot32
+  - Plot33
+  - Plot34
+  - Plot35
+  - Plot36
+  - Plot37
+  - Plot38
+  - Plot39
+  - Plot40
+  - Plot7
+  - Clone7
+  - Clone8
+  - Clone9
+  - Clone10
+  - Clone11
+  - Clone12
+  - Clone13
+  - Clone14
+  - Clone15
+  - Clone16
+  - Clone17
+  - Clone18
+  - Clone19
+  - Clone20
+  - Clone21
+  - Clone22
+  - Clone23
+  - Clone24
+  - Clone25
+  - Clone26
+  - Clone27
+  - Clone28
+  - Clone30
+  - Clone29
+  - Clone31
+  - Clone32
+  - Clone33
+  - Clone34
+  - Clone35
+  - Clone36
+  - Clone37
+  - Clone38
+  - Clone39
+  - Clone40
+  - Level1
+  - Level2
+  - Level3
+  - Level4
+  - Level5
+  - level3fence
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - 
+  - Camera
+  - Information
+  - Interactable
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Dynamic
+    uniqueID: 3010279593
+    locked: 0
